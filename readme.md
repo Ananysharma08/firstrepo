@@ -1,1 +1,1 @@
-hello
+This is a spam classifier, it uses a datset imported from kaggle, it uses a decision tree classifier to classify a mail a spam or not spam
